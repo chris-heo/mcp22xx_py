@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(name="mcp22xx",
-      version="0.2",
+      version="0.3",
       description="Python interface for the MCP22xx USB-I2C/SPI bridges",
       author="Christof Ruess",
       author_email="chris@hobbyelektronik.org",
