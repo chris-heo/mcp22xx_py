@@ -18,3 +18,12 @@ from mcp22xx.mcp2221_enums import (
     ClockoutDutycycle,
     ClockoutDivider
 )
+
+from .mcp2210 import (
+    MCP2210,
+    Gpio,
+    SpiChannel
+)
+
+from . import mcp2210_enums
+from . import mcp2210_msgs
